@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "저는 **컴퓨터학**을 전공하는 학생입니다!"
   location         : "부산, 대한민국"
-  email            : "dlwoals124@gmail.com"
+  # email            : "dlwoals124@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
