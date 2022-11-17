@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "지노비"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "저는 **컴퓨터학**을 전공하는 학생입니다!"
+  bio              : "저는 **컴퓨터학**을 전공하는 학생입니다! "
   location         : "부산, 대한민국"
   email            : "dlwoals124@gmail.com"
   links:
