@@ -292,3 +292,4 @@ defaults:
       related: true
       show_date: true
       read_time: true
+      use_math: true
