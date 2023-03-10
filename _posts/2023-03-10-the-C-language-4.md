@@ -24,7 +24,7 @@ void someFunc(void) {
 ```
 와 같이 함수를 선언할 수 있습니다. 이 함수가 사용될 곳보다 상단부에 선언되어야 합니다.
 여기서,
-![Function-image-1](./images/%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EC%9E%90%EB%A3%8C-2.jpg)
+![Function-image-1](https://github.com/zinovy124/zinovy124.github.io/blob/main/_posts/images/%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EC%9E%90%EB%A3%8C-2.jpg?raw=true)
 
 1번이 함수가 리턴하는 값의 타입을 명시하는 곳이고 2번은 파라미터 자리이다.
 `int parm`과 같이 명시하면 된다.
