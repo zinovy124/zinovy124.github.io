@@ -9,7 +9,7 @@ tags: [문법, Language, C]
 <br>
 <br>
 
-> 1. [Hello World!](#hello-world)
+> 1. [Hello World!](https://zinovy124.github.io/c/language/data%20structure/the-C-language-1/)
 > 2. [변수와 데이터 타입](#변수와-데이터-타입)
 >> 1. [int](#unsigned-int)
 >> 2. [long long](#unsigned-long-long)
