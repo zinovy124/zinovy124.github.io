@@ -4,7 +4,7 @@ categories: [C, Language, Data Structure]
 tags: [문법, Language, C]
 ---
 
-자료구조를 어디서 공부하든 대부분 C로 구현해보는 것 같습니다.
+자료구조를 어디서 공부하든 대부분 C로 구현해보는 것 같습니다.   
 그렇기에 오늘은 그를 위해 C 문법을 복습해보도록 합시다.
 <br>
 <br>
