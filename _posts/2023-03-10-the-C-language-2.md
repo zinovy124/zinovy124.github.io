@@ -3,12 +3,6 @@ title: "[C/C++] 자료구조를 공부하기 전 필요한 C 문법 총 정리! 
 categories: [C, Language, Data Structure]
 tags: [문법, Language, C]
 ---
-
-자료구조를 어디서 공부하든 대부분 C로 구현해보는 것 같습니다.   
-그렇기에 오늘은 그를 위해 C 문법을 복습해보도록 합시다.
-<br>
-<br>
-
 > 1. [Hello World!](https://zinovy124.github.io/c/language/data%20structure/the-C-language-1/)
 > 2. [변수와 데이터 타입](#변수와-데이터-타입)
 >> 1. [int](#unsigned-int)
@@ -24,7 +18,6 @@ tags: [문법, Language, C]
 > 8. [메모리 공간과 데이터 공유]()
 > 9. [메모리 동적 할당]()
 > 10. [사용자 정의 자료형]()
-
 ---
 
 # 변수와 데이터 타입
